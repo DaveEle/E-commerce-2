@@ -1,0 +1,42 @@
+*{
+    background-color: rgba(236, 236, 236, 0.753);
+}
+
+.nav{
+    width: 350px;
+    display: flex;
+    position:relative;
+    padding: 2px;
+    color: rgb(241, 237, 231);
+   justify-content: space-between;
+   margin-left: 50rem;
+   }
+a:hover{
+    color: red;
+    font: 6px;
+    padding: 8px;}
+    
+.red{
+    font-size: 20px;
+    border:2px;
+    padding:3px;
+    border-radius: 4px;
+}
+h1:hover{
+    width: 170px;
+    font:10px;
+    background-color:rgb(79, 79, 196) ;
+    color:rgb(211, 159, 159);
+}
+  .header-button:hover{
+    padding: 20px;
+    border:3px black solid;
+    font-size:20px;
+    border-radius: 15px;
+    color:blue;
+} 
+.dates{
+    width: 40rem;
+color: blue;
+font-size:20px;
+}
